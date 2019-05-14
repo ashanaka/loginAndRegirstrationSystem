@@ -1,0 +1,13 @@
+.jumbotron h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+input #mobileno .form-control{
+    width: 50%;
+    color: red;
+}
+
+input#dob.form-control{
+    width: 50%;
+}
